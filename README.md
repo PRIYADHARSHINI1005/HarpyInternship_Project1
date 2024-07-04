@@ -44,3 +44,4 @@ Features:
 	- Provides interactive plots and insights into movie preferences and trends.
 
 # AUTHOR
+[Priyadharshini U](https://github.com/PRIYADHARSHINI1005).
