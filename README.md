@@ -7,11 +7,17 @@ Dataset:
 MovieLens 100k dataset.
 
 Features:
-	- Loads and preprocesses MovieLens 100k dataset for movie metadata.
-	- Extracts movie features such as genres and tags for content-based recommendations.
-	- Constructs TF-IDF vectors or embeddings for movies based on their textual features.
-	- Computes similarity scores between movies using cosine similarity or other metrics.
-	- Recommends movies to users based on their historical preferences and movie similarities.
+<br>
+1.Loads and preprocesses MovieLens 100k dataset for movie metadata.
+<br>
+2.Extracts movie features such as genres and tags for content-based recommendations.
+<br>
+3.Constructs TF-IDF vectors or embeddings for movies based on their textual features.
+<br>
+4.Computes similarity scores between movies using cosine similarity or other metrics.
+<br>
+5.Recommends movies to users based on their historical preferences and movie similarities.
+<br>
 
 # Recommendation System 2: NCF (Neural Collaborative Filtering) Model
 
@@ -22,11 +28,17 @@ Dataset:
 MovieLens 100k dataset.
 
 Features:
-	- Loads and preprocesses MovieLens 100k dataset for user-movie ratings.
-	- Creates embedding layers for users and movies to learn their latent representations.
-	- Defines a neural network architecture (typically MLP or similar) to predict user ratings.
-	- Trains the model using techniques like negative sampling to improve recommendations.
-	- Evaluates model performance using metrics like RMSE or precision-recall.
+<br>
+1.Loads and preprocesses MovieLens 100k dataset for user-movie ratings.
+<br>
+2.Creates embedding layers for users and movies to learn their latent representations.
+<br>
+3.Defines a neural network architecture (typically MLP or similar) to predict user ratings.
+<br>
+4.Trains the model using techniques like negative sampling to improve recommendations.
+<br>
+5.Evaluates model performance using metrics like RMSE or precision-recall.
+<br>
 
 # Recommendation System 3: Data Exploration and Visualization Model
 
@@ -37,11 +49,17 @@ Dataset:
 MovieLens 100k dataset.
 
 Features:
-	- Loads and preprocesses MovieLens 100k dataset to analyze movie ratings and genres.
-	- Uses Pandas and Matplotlib/Seaborn for data exploration and visualization.
-	- Visualizes the distribution of movie ratings and genres across the dataset.
-	- Computes statistics such as average ratings per movie and user engagement.
-	- Provides interactive plots and insights into movie preferences and trends.
+<br>
+1.Loads and preprocesses MovieLens 100k dataset to analyze movie ratings and genres.
+<br>
+2.Uses Pandas and Matplotlib/Seaborn for data exploration and visualization.
+<br>
+3.Visualizes the distribution of movie ratings and genres across the dataset.
+<br>
+4.Computes statistics such as average ratings per movie and user engagement.
+<br>
+5.Provides interactive plots and insights into movie preferences and trends.
+<br>
 
 # AUTHOR
 [Priyadharshini U](https://github.com/PRIYADHARSHINI1005).
